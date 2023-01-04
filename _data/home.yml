@@ -10,23 +10,31 @@ project_entries:
   - title: Tu-154b2
     url: https://github.com/ShFsn/tu154b
     desc: Tupolev Tu-154b airliner model for FlightGear
-    highlight: WIP
+    highlight: Aircraft
 
   - title: Tu-144D
     url: https://gitlab.com/femboywings-fgfs/tu144d
     desc: Tu-144D for FlightGear
-    highlight: WIP
+    highlight: Aircraft
 
   - title: Su-27SK
     url: https://github.com/ShFsn/SU-27SK
     desc: Su-27SK fighter aircraft implementation for FlightGear flight simulator
+    highlight: Aircraft
 
   - title: MiG-29 (9-12)
     url: https://github.com/ShFsn/MiG-29_9-12
     desc: MiG-29 (9-12) for FlightGear
+    highlight: Aircraft
+   
+  - title: Moscow scenery
+    url: https://github.com/rdinit/fg-moscow-scenery
+    desc: ILS data and jetways for UUDD and UUEE
+    highlight: Scenery
+    
 
 footer_entries:
   - title: home
-    url: /
+    url: /fg
 
 
