@@ -32,7 +32,7 @@ project_entries:
     desc: ILS data and jetways for UUDD and UUEE
     highlight: Scenery
    
-  - title: Moscow scenery
+  - title: Photoscenery manager
     url: https://rdinit.github.io/photoscenery-manager/
     desc: Simple photoscenery tiles selector
     highlight: Tool
